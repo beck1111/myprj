@@ -21,10 +21,11 @@ class BookController extends Controller
 
     public function detail($id)
     {
-        var_export($id);
-        sdfddsf
-
-        exit;
+        echo 'test';
+        echo 'test';
+        echo 'test';
+        echo 'test';
+        echo 'test';
         //$request->validate(
         //    ['id' => 'required|interger']
         //    );
